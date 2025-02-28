@@ -29,9 +29,13 @@ Here's a walkthrough of implemented required features:
 
 GIF created with Microsoft Clipchamp  
 
-## Notes
+## Challenges
 
-Describe any challenges encountered while building the app.
+* [X] Ensuring that the EventCard component correctly receives and displays props (name, date, imageUrl, link) from EventList
+
+* [X] Maintaining a proper row format while ensuring event cards wrap correctly on different screen sizes. 
+
+* [X] Ensuring uniform code style across components, including indentation, spacing, and naming conventions.
 
 ## License
 
