@@ -23,13 +23,13 @@
 .event-card h2 {
   margin: 10px 0;
   font-size: 1.5em;
-  color: #333;
+  color: #333333;
   text-align: center;
 }
 
 .event-card p {
   margin: 5px 0;
-  color: #666;
+  color: #6c6c6c;
   text-align: center;
 }
 
